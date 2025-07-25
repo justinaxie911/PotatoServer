@@ -1,16 +1,29 @@
 [
   {
     "name": "Japan",
-    "host": "us.server.com",
+    "host": "pq-japan1.09vpn.com",
     "port": "443",
+    "username": "u7811807875",
+    "password": "nas123",
     "status": "active",
     "flagUrl": "https://flagcdn.com/w40/jp.png"
   },
   {
     "name": "Singapore",
-    "host": "sg.server.com",
+    "host": "ul-singapore2.09vpn.com",
     "port": "443",
+    "username": "u7748367349",
+    "password": "nas123",
     "status": "active",
     "flagUrl": "https://flagcdn.com/w40/sg.png"
+  },
+  {
+    "name": "Philippines",
+    "host": "3h-Philippines1.09vpn.com",
+    "port": "443",
+    "username": "u6223878858",
+    "password": "nas123",
+    "status": "active",
+    "flagUrl": "https://flagcdn.com/w40/ph.png"
   }
 ]
