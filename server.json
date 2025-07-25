@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Japan",
+    "host": "us.server.com",
+    "port": "443",
+    "status": "active",
+    "flagUrl": "https://flagcdn.com/w40/jp.png"
+  },
+  {
+    "name": "Singapore",
+    "host": "sg.server.com",
+    "port": "443",
+    "status": "active",
+    "flagUrl": "https://flagcdn.com/w40/sg.png"
+  }
+]
