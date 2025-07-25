@@ -6,7 +6,7 @@
     "username": "u7811807875",
     "password": "nas123",
     "status": "active",
-    "flagUrl": "https://flagcdn.com/w40/jp.png"
+    "flag": "https://flagcdn.com/w40/jp.png"
   },
   {
     "name": "Singapore",
@@ -15,7 +15,7 @@
     "username": "u7748367349",
     "password": "nas123",
     "status": "active",
-    "flagUrl": "https://flagcdn.com/w40/sg.png"
+    "flag": "https://flagcdn.com/w40/sg.png"
   },
   {
     "name": "Philippines",
@@ -24,6 +24,6 @@
     "username": "u6223878858",
     "password": "nas123",
     "status": "active",
-    "flagUrl": "https://flagcdn.com/w40/ph.png"
+    "flag": "https://flagcdn.com/w40/ph.png"
   }
 ]
